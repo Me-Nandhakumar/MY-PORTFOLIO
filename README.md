@@ -8,7 +8,7 @@ Recently graduated B.Tech in Artificial Intelligence and Data Science with hands
 
 ## 🌐 Portfolio Website
 
-🔗 [View My Portfolio](https://me-nandhakumar.github.io)
+🔗 [View My Portfolio](https://me-nandhakumar.github.io/MY-PORTFOLIO/#contact)
 
 ---
 
