@@ -49,7 +49,7 @@ Recently graduated B.Tech in Artificial Intelligence and Data Science with hands
 - End-to-end ML classification pipeline using Scikit-learn
 - Applied Logistic Regression achieving **94.9% accuracy**
 - Analyzed features like followers/following ratio and profile completeness
-- 🔗 [View Project](https://github.com/Me-Nandhakumar)
+- 🔗 [View Project]([https://github.com/Me-Nandhakumar](https://github.com/Me-Nandhakumar/ML-DS-Project/blob/main/Logistic%20Regression/Fake%20Account%20Detection%20on%20Social%20Media.ipynb))
 
 ---
 
@@ -57,7 +57,7 @@ Recently graduated B.Tech in Artificial Intelligence and Data Science with hands
 - Regression model on historical financial data with full preprocessing pipeline
 - Analyzed financial indicators: oil price, silver price, exchange rates
 - Achieved **R² score of 0.84** using Pandas, NumPy, and Scikit-learn
-- 🔗 [View Project](https://github.com/Me-Nandhakumar)
+- 🔗 [View Project]([https://github.com/Me-Nandhakumar](https://github.com/Me-Nandhakumar/ML-DS-Project/blob/main/Simple%20Linear%20Regression/Gold%20Price%20Variation%20in%20India%20Over%20the%20Years%20using%20Linear%20Regression.ipynb))
 
 ---
 
